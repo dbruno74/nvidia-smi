@@ -1,0 +1,4 @@
+- build with 
+    snapcraft --verbose
+- install with 
+    snap install nvidia-smi_0.1_amd64.snap --devmode
